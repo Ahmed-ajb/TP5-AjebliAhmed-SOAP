@@ -1,4 +1,4 @@
-![image](https://github.com/Ahmed-ajb/TP5-AjebliAhmed-SOAP/assets/78688533/ae35ab5e-15d7-41ac-ab41-374f4577874f)# BanqueService Web Service
+# BanqueService Web Service
 
 Ce projet propose un Web Service permettant les opérations suivantes :
 - Conversion d'un montant de l'euro en DH
